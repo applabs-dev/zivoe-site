@@ -1,0 +1,11 @@
+# Node / Next / 构建产物
+node_modules/
+.next/
+out/
+dist/
+.env
+.env.*
+
+# OS
+.DS_Store
+*.log

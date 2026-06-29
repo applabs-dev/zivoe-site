@@ -1,0 +1,19 @@
+# fusiondesign-site （代号，产品名待定）
+
+`fusiondesign` 的公开站点 —— **全新设计**（不复用 kinmate-site）。
+
+## 职责
+- 落地页 / 功能介绍 / 定价
+- 下载页（Win/Mac 客户端 + `release.json`，CI 发版写入）
+- 法律：EULA、隐私政策、「非医疗器械/概念参考」免责
+- 反馈入口
+
+## 约束
+- 纯静态、**零密钥、无后端**（发卡在 core 的离线 CLI，不在站点）。
+- 设计待定（视觉全新）；框架候选 Next.js 静态导出（同 kinmate 熟悉度）或其他，未定。
+
+## 状态
+未开始。先建仓库占位、本地 commit 记录。**仅本地，暂不接 GitHub。**
+
+## 配套
+- `fusiondesign-core`：应用源码 + 发卡 + 规范文档。
