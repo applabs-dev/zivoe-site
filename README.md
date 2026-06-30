@@ -1,6 +1,6 @@
-# fusiondesign-site （代号，产品名待定）
+# Zivoe · site（公开站点）
 
-`fusiondesign` 的公开站点 —— **全新设计**（不复用 kinmate-site）。
+**Zivoe** 的公开站点 —— **全新设计**（不复用 kinmate-site）。
 
 ## 职责
 - 落地页 / 功能介绍 / 定价
@@ -16,4 +16,4 @@
 未开始。先建仓库占位、本地 commit 记录。**仅本地，暂不接 GitHub。**
 
 ## 配套
-- `fusiondesign-core`：应用源码 + 发卡 + 规范文档。
+- `zivoe-core`：应用源码 + 发卡 + 规范文档。
