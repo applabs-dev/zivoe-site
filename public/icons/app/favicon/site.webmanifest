@@ -1,0 +1,19 @@
+{
+  "name": "Zivoe",
+  "short_name": "Zivoe",
+  "icons": [
+    {
+      "src": "/icons/app/favicon/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app/favicon/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0f7f82",
+  "background_color": "#b9e8e5",
+  "display": "standalone"
+}
